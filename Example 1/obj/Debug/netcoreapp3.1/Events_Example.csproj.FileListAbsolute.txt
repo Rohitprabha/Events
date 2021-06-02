@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Events_Example\bin\Debug\netcoreapp3.1\Events_Example.exe
+C:\Users\Rohit Dasari\source\repos\Events_Example\bin\Debug\netcoreapp3.1\Events_Example.deps.json
+C:\Users\Rohit Dasari\source\repos\Events_Example\bin\Debug\netcoreapp3.1\Events_Example.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Events_Example\bin\Debug\netcoreapp3.1\Events_Example.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Events_Example\bin\Debug\netcoreapp3.1\Events_Example.dll
+C:\Users\Rohit Dasari\source\repos\Events_Example\bin\Debug\netcoreapp3.1\Events_Example.pdb
+C:\Users\Rohit Dasari\source\repos\Events_Example\obj\Debug\netcoreapp3.1\Events_Example.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Events_Example\obj\Debug\netcoreapp3.1\Events_Example.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Events_Example\obj\Debug\netcoreapp3.1\Events_Example.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Events_Example\obj\Debug\netcoreapp3.1\Events_Example.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Events_Example\obj\Debug\netcoreapp3.1\Events_Example.dll
+C:\Users\Rohit Dasari\source\repos\Events_Example\obj\Debug\netcoreapp3.1\Events_Example.pdb
+C:\Users\Rohit Dasari\source\repos\Events_Example\obj\Debug\netcoreapp3.1\Events_Example.genruntimeconfig.cache
